@@ -1,4 +1,4 @@
-# 🚀todolist
+# 🚀 todolist
 Todolist is min usage of project with your developing learning, and Backend with based Nest.js + Prisma + Graphql, with Vite + React(Hooks) + TailWindCSS, If you're interested, copy it.
 
 ![todolist-screenshot](./screenshot/todolist-screenshot.png)
