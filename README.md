@@ -3,7 +3,7 @@ Todolist is min usage of project with your developing learning, and Backend with
 
 ![todolist-screenshot](./screenshot/todolist-screenshot.png)
 
-##  Requirements
+## 🌈 Requirements
 1. graphql-todolist-backend
 
 - Node 18.16.0+
@@ -33,7 +33,7 @@ Todolist is min usage of project with your developing learning, and Backend with
 - @apollo/client 3.11.8+
 
 
-## Installation
+## 🛠 Installation
 1. git clone repository
 
 ```bash
